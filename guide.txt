@@ -1,0 +1,158 @@
+statement of financial position
+
+Also called the balance sheet. Financial statements to look at the amount of assets and credit currently held, the amount of money to be received, the value of product inventory that affects sales generation, how much money the company has raised from external borrowing with shareholders, and the degree of debt and post-startup profit => a table to look at the assets held by the company
+Assets (total assets held by a company) = liabilities + capital
+- the total sum of money, whether it's someone else's money or mine
+Current assets => cashable assets within one year
+- Cash and cash equivalents: Includes tangible and intangible assets or financial assets in addition to cash
+- Account receivables: Deliveries of goods on credit => Set provision for bad debt for funds that are not expected to be recovered
+- Inventory assets: Contracted goods to be delivered or products against supply activation => depreciation due to loss of value over time
+Current liabilities => liabilities to be repaid within one year
+- Purchasing debt: The company buying on credit => Companies with continuous increase in purchasing debt must find out why => Whether it is an increase for liquidity of funds or no distribution funds | If a small and medium enterprise has a large proportion of purchase debt among its suppliers, it can be judged as having a strong relationship with the customer
+- Short-term borrowings: debts to be paid off after only a short period of time
+- Liquidity long-term debt: As the maturity date approaches, it has changed to a debt that needs to be paid off for one year like short-term borrowings => If there are many long-term borrowings with insufficient distribution funds, it is necessary to check the repayment period and when the liquidity long-term debt changes
+Non-current assets => It takes more than a year to secure funds
+- Tangible assets: Having the form of buildings, land, machinery, etc. => In the case of manufacturing, the proportion of tangible assets increases significantly => In the case of shipping-related industries, ships are tangible assets, so the proportion is close to 80%
+- Intangible assets: Assets with a large proportion in industries such as IT, bio, and telecommunications, and bio companies sometimes treat development costs as intangible assets instead of sales and management expenses => Tangible assets <Large loss in case of development failure
+Non-current liabilities => liabilities with more than one year left to repay
+- Defined benefit liabilities: Workers' retirement benefits
+- Long-term borrowings: Notes need to confirm maturity repayment date
+- Provisions: Emergency funds for A/S costs
+Current liabilities > Current assets increase the probability of borrowing or issuing capital increase asking shareholders for help => If there is a continuous loss in net profit, and the debt ratio increases over current assets, most of the funds are raised externally, and in the worst case, management items are selected or delisted
+Capital (pure capital excluding debt | equity capital | net assets) = Asset – liabilities 
+- my money left in the net
+Capital => Shareholders' investment = The value of the first week that occurs when a company is listed on the exchange 
+= par value * number of shares 
+- Unable to trade below the set par value
+Capital surplus = premium value of one share issued at face value = stock issuance value – face value = profit from financial activities
+Retained earnings = operating income – cost – shareholder dividend
+Reserved amount (in-house reserves) = retained earnings + capital surplus
+- The higher the reserve ratio, the more capital available
+- Not entirely referring to cash
+Reservation rate = Reservation amount / Capital
+Net income of controlling shareholders = Net income of controlling shareholders / turnover
+- Matters to be referred to in the calculation of the appropriate stock price
+Market cap = Stock price * Number of shares issued
+Debt ratio = (total debt / equity capital) * 100
+- Company's debt ratio (the lower, the better)
+- An indicator that determines the degree of dependence on external debtors and must remain even after cancelling the debt with net assets  
+- It is recommended to exclude 100% or less from investment stocks if it is more than 100%
+- Chemical / Bio / Manufacturing Some May Have High Debt Ratio
+- Advance payments through operations also correspond to liabilities -> Firms with increased advance payments have increased debt and may have increased debt ratio -> In this case, it is necessary to understand the use of borrowings
+
+income statement 
+
+Financial statements stating the company's sales and profits by quarter or year (= household book)
+You can determine how much you've spent compared to the previous year
+Gross Revenue = Revenue – Cost of Sales
+- Cost of sales: the cost of generating sales
+- Easy if you understand the margin left after selling the goods
+- First Margin => Keep an eye out for companies whose sales increase year by year (competitive possibility exists)
+- As sales increase, the cost of sales should increase in proportion, but in case of non-ideal increase or decrease, it is necessary to check the reason
+Gross margin of sales = Revenue / Revenue * 100
+- Large cost difference between high-cost industries and high-cost intangible assets technology (software) + service industries
+Operating profit = gross profit – sales and administrative expenses
+- Cost of selling: How much it costs before a product is sold (e.g. advertising)
+- Administrative expenses: Depreciation expenses of assets, etc 
+- Second Margin 
+- Sales and administrative costs are usually similar year to year, but when a large number occurs suddenly, you need to know the cause => whether the cause is continuous or only in that quarter to predict the impact of the next quarter
+Operating margin = (operating profit/sales) * 100
+- How much operating profit did you make from sales: If the cost also increases as sales increase, operating profit decreases => operating profit ratio decreases as well
+- 10%-15% is appropriate, and if it's higher, it's classified as excellent
+- If the operating margin is negative, the company incurred losses through operating activities <= High cost, low sales, poor business strategy, and economic recession
+Net income before income tax = Operating income – Non-operating expenses and revenue
+- Non-operating expenses: Other expenses not related to operations
+	- Interest expense accrual (-), financial income or asset disposal (+)
+	- Low importance due to many one-off factors, but need to be checked if there is a continuous high cost
+Net income = Net income before income tax – income tax
+- Net income accrued after paying all expenses and taxes for the company's one-year sales
+- When checking the ownership stake of the parent company, it is possible to check the degree of quarterly profit generation of the company
+- Companies that can maintain (+) usually see continuous increase in sales
+- When sales increase by 10% each year, operating profit usually grows by 15% or more
+- Non-controlling interests are revenue-generating items of subsidiaries
+
+investment index
+
+Return On Asset (ROA) = Net income / Total capital (asset)
+- Total Return on Assets: How much net income a company has generated from its total assets
+- This may be the most realistic indicator for a company to take advantage of all of its assets
+- ROA increases only when net income increases when debt increases
+Return of Equity (ROE) = Net income/ equity capital (capital + retained earnings)
+- Return On Capital Employed: How Much Net Income Have You Earned With Your Equity
+- ROA is an indicator of assets, whereas ROE is an indicator of the degree of profit generation using net equity capital
+- Decrease if you generate a profit similar to last year's
+- Retained earnings increase every year for a well-run company, which is lower when the same profit as the previous year is generated
+- It is known that net profit increases as sales increase, but it may decrease. <=In the case of rising sales costs, increasing management costs, etc. => In order to continuously increase ROE, sales must also continue to increase and expenditure must be reduced
+- A normal company generates profits every year, the remaining net profit is treated as retained earnings, and equity capital also increases => ROE can rise only when it generates more profits as the total capital increases
+- Firms must compete for survival, increasing marketing costs to increase sales, or increasing sales costs to increase product quality, reducing net income
+- Therefore, maintaining ROE or increasing it annually is more likely to be a high value company
+- ROE-appropriate stock price = ROE(%) * EPS * 100
+EPS (Earning Per Share) = Net Income / Number of Shares Issued
+- Earnings Per Share: An Indicator of How Much Investors Have Earned From One Share They Buy
+- Increasing as corporate profits increase
+- If a company takes actions that cause changes in the number of shares, such as capital increase or division, treasury stock purchase, or reduction, severe fluctuations occur (caution required)
+Book – value per share (BPS) = equity capital (net assets) / number of shares issued
+- Net assets per share: An asset-based indicator, indicating the value of capital per share
+- At the same time as the value of capital, in the case of company bankruptcy, you can know how much you can receive per share through liquidation
+- The higher the stock price, the better
+Divided Per Share (DPS) = Total amount of dividends / Number of shares issued
+- Dividend per share: Dividends per share of invested companies
+Price Earning Ratio (PER) = Stock Price/ EPS = Market Cap/ Net Income
+- Price-to-earnings ratio: What a company brings in versus market cap
+- An indicator of how many years it takes to recover the principal of an investment, assuming an entity is acquired
+- Usually, PER is 10 to 30 times appropriate, but since it varies by industry, the company can determine whether PER is appropriate only by relative comparison. 
+- Companies whose PERs are steadily falling are worth paying attention to
+- Equitable share price formula = Estimated PER * Estimated EPS
+	- The estimated PER uses the average PER value for the company's five years
+	- Estimated EPS is checked for consensus value, and if it does not exist, refer to mean EPS value
+	- If the price is lower than the appropriate stock price, it is undervalued, so it is recommended to invest for only a few years 
+	  It is also important to anticipate whether or not you are undervalued and when you can recover
+	- It is advantageous to view the appropriate stock price formula as short as 1 to 2 years (requires verification of the facts)
+PBR(Price Book – value Ratio) = Stock Price / BPS 
+- Share price net asset ratio: Based on 1, it is possible to determine whether the company is overvalued or undervalued
+- If it's greater than 1, it's highly rated
+- PBR, ROE, PER are important
+Number of shares issued => Total number of shares issued by a company when it went public =/= Actual number of shares in circulation
+Number of shares in circulation => Stocks that can be sold by ordinary investors
+- Changes can be made depending on capital increase or capital reduction, additional treasury stock purchases and disposals
+Dividend yield = (DPS / Stock Price) * 100
+- annual dividend payment ratio to stock price
+- Firms can help gain competitiveness with investments instead of dividends
+- Companies that pay dividends with debt should be avoided
+Sales Per Share (SPS) = Revenue / Number of shares: Revenue per share
+Professional Share Ratio (PSR) = Stock Price/Sales per Share = Market Cap/Sales
+- Share Price Sales Ratio: Use when profit indicators fluctuate, not often used because profit is more important than sales, but useful when more accurate judgment is needed
+
+cash flow statement
+
+Checking the amount of sales and net income listed in the income statement (which values the company's profits) does not mean identifying the assets currently held by the company => The financial statements that show realistic cash flows are also important, to check the actual cash compared to net income for the current accounting period
+1) Business activities: funds generated by selling products 2) Investment activities: buying and selling land or machinery
+3) Financial activities: paying dividends to shareholders or generating financial returns (including liabilities)
+Operating cash flow
+- The larger the amount, the more advantageous it is
+- If operating profit is a deficit in operating cash flow even if operating profit is a surplus in the income statement, it is necessary to check accounts receivable or inventory assets (made goods in advance for supply, and if there is a lot of this, management costs increase)
+- Cashable assets: Liquid assets such as cash, accounts receivable (selling goods on credit), tangible assets, etc
+- As accounts receivable increase, sales increase proportionally
+- Income statement is prepared on an accrual basis, so even if cash does not come in immediately, it is recognized as sales once a contract occurs => Disjunction from actual cash flow
+- Loss in operating profit, but surplus in operating activities => recovery of balance of accounts receivable
+- In the commentary, you need to look at the history of operating cash flow adjustments to know the actual cash entity
+- Cash flow statements and comments are a set. Must be checked together
+- Corporate tax payment (refund) expressed as expenditure in business activities corresponds to last year's corporate tax
+- *Corresponding corporate tax expense for 20 years: Filing and paying corporate tax in 21 years -> incurring corporate tax expenditure in 21 years report
+Investment activity cash flow
+- Unless it's a business that makes money from investment, there's a big plus
+- In the case of manufacturing, it is beneficial to increase competitiveness through investment in production facilities – often
+- Big + is interpreted as changing the company's current operations and future competitiveness
+- If assets are increasing in investment activities, you must look at the details
+Financial Activity Cash Flow
+- dividend payment and debt repayment
+- -It is good to be marked as -, but sometimes in case of insolvent companies, they make capital increase or convertible bonds, borrowings, etc. to +
+- Being + does not mean an insolvent company, but having an asset in the form of debt
+- Underlying cash & end-of-year cash and cash equivalents: How much cash equivalents have increased over a given period of time
+
+a table of changes in capital
+
+A table that identifies changes in the company => A table that identifies changes in capital, capital surplus, capital adjustment, accumulated other comprehensive income, and retained earnings => All can be found in other financial statements => Low importance
+
+Financial statements = Financial statements + Income statements + Capital changes + Cash flow statements (+ notes)
+- It is recommended to compare the amount and comments compared to last year rather than just reading the numbers shown
